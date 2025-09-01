@@ -5,9 +5,9 @@ Ele foi criado para automatizar perguntas e e tarefas repetitivas no setor que t
 
 Tecnologias:
 
--Node.js
--whatsapp-web.js
--npm
+  -Node.js
+  -whatsapp-web.js
+  -npm
 
 ---
 
@@ -31,8 +31,8 @@ node chatbot.js
 
 Funcionalidades:
   Conexão com o WhatsApp via QR Code
-Respostas automáticas pré-definidas
-Estrutura pronta para adicionar novos comandos
+  Respostas automáticas pré-definidas
+  Estrutura pronta para adicionar novos comandos
 
 Considerações Pessoais:
 
